@@ -1,0 +1,7 @@
+{
+    "navigationBarTitleText": "",
+    "usingComponents": {
+        "wux-button": "../../../static/wux/button/index",
+        "wux-toptips": "../../../static/wux/toptips/index"
+    }
+}
