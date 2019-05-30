@@ -1,0 +1,32 @@
+{
+  "pages": [
+    "pages/index/main",
+    "pages/register/main",
+    "pages/myrelease/main",
+    "pages/res/main",
+    "pages/choice/main",
+    "pages/purse/main",
+    "pages/cond/main",
+    "pages/grouprelease/main",
+    "pages/gotransferelease/main",
+    "pages/mine/main",
+    "pages/recd/main",
+    "pages/class/main",
+    "pages/class-mid/main",
+    "pages/class-sec/main",
+    "pages/class-thr/main",
+    "pages/test/main",
+    "pages/gologin/main",
+    "pages/bind/main",
+    "pages/chatgroup/main",
+    "pages/grouptransfer/main",
+    "pages/search/main",
+    "pages/detail/main"  
+  ],
+  "window": {
+    "backgroundTextStyle": "light",
+    "navigationBarBackgroundColor": "#28b9ef",
+    "navigationBarTitleText": "财圈",
+    "navigationBarTextStyle": "white"
+  }
+}
